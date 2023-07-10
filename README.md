@@ -1,4 +1,5 @@
-# IPL_Score_Prediction#   IPL Score Prediction using ML and TPOT Auto ML Library
+# IPL_Score_Prediction
+#   IPL Score Prediction using ML and TPOT Auto ML Library
 
 This repository contains the code and analysis for predicting the final score of an IPL match using Machine Learning (ML) models and the TPOT Auto ML library.
 
